@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="newsletter_subscription_success_coupon_email_template" label="Subscription Success" file="subscr_success.html" type="html" module="MageOS_NewsletterCoupon" area="frontend"/>
+</config>
