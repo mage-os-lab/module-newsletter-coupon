@@ -6,8 +6,7 @@ Add automatically generated coupon management for newsletter subscribers
 
 ## Overview
 
-The **Newsletter Coupon** module allows you generate a unique coupon for each newsletter subscriber.
-The coupon will be sended to the subscriber email after the subscription.
+The **Newsletter Coupon** module allows you to generate a unique coupon for each newsletter subscriber. The coupon will be sent to the subscriber’s email after the subscription.
 
 
 ## Features
